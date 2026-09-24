@@ -1,0 +1,11 @@
+**/.venv/
+**/.runtime/
+**/__pycache__/
+**/models/
+**/output/
+*.pyc
+*.log
+.env
+.env.*
+!.env.example
+video-mate-pick/tests/smoke-result.json
